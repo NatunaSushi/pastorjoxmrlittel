@@ -1,4 +1,4 @@
-## Pastor Jo and Mr Littel are the bestest ship dont @ me
+## No Hair But I Care
 
 
 
@@ -104,7 +104,7 @@ Long live our people, united and free.
 Strong in our friendship tried by fire.
 Long may our crimson flag inspire,
 Shining in glory for all men to see.~~~
-[Link](url) and ![Image](src)
+![Image](/assets/css/paster.png)
 ```
 
 
